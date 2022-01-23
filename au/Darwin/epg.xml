@@ -41600,13 +41600,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Bamay</title>
+    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
+    <title>Bamay</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -43829,24 +43829,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220123144648 +0000" stop="20220123151247 +0000">
-    <title>Reel Rock S7E9</title>
-    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <sub-title>Black ice part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123151247 +0000" stop="20220123153526 +0000">
-    <title>Reel Rock S7E10</title>
-    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <sub-title>Black ice part 2</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220123153526 +0000" stop="20220123155725 +0000">
     <title>Bas Keep: More Walls</title>
     <desc>BMX star Sebastian Keep rides makeshift ramps and obstacles in the urban landscape of city centres in the UK.</desc>
     <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220123155725 +0000" stop="20220123174245 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Supervention II</title>
+    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
+    <sub-title>Life on the edge</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220123174245 +0000" stop="20220123175137 +0000">
     <title>Red Bull Flugtag S3E4</title>
@@ -44054,8 +44045,9 @@
     <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124121934 +0000" stop="20220124140535 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Supervention II</title>
+    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
+    <sub-title>Life on the edge</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124140535 +0000" stop="20220124141338 +0000">
     <title>Red Bull Flugtag S3E1</title>
@@ -44086,6 +44078,16 @@
     <title>Behind the Visor</title>
     <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
     <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124155040 +0000" stop="20220124163806 +0000">
+    <title>Trent’s Vision</title>
+    <desc>Trent Alexander-Arnold is one of the world's best footballers. Can vision training help him to be even better?</desc>
+    <sub-title>See better. Be better.</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124163806 +0000" stop="20220124170119 +0000">
+    <title>Bang on Time</title>
+    <desc>Watch freeskiers perform tricks, while the Red Bull Skydive Team perform aerial acrobatics at the same time.</desc>
+    <sub-title>Marco Waltenspiel and Nico Porteous wingsuit and ski film</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
