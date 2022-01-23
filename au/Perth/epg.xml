@@ -16190,14 +16190,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060560" start="20220126055800 +0000" stop="20220126062900 +0000">
+    <title>To Be Advised</title>
+  </programme>
+  <programme channel="tv.101305060560" start="20220126055800 +0000" stop="20220126062900 +0000">
     <title>Motorbike Cops</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305060560" start="20220126055800 +0000" stop="20220126062900 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305060560" start="20220126062900 +0000" stop="20220126070000 +0000">
     <title>Border Security: International</title>
@@ -36497,15 +36497,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126053500 +0000">
-    <title>Great Canadian Railway Journeys</title>
+  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126050000 +0000">
+    <title>Where Are You Really From?</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126050000 +0000">
-    <title>Where Are You Really From?</title>
+  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126053500 +0000">
+    <title>Great Canadian Railway Journeys</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -41616,13 +41616,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Bamay</title>
+    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
+    <title>Bamay</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -43864,31 +43864,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220123120756 +0000" stop="20220123125725 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123125725 +0000" stop="20220123134449 +0000">
-    <title>Driven</title>
-    <desc>A film about the motivation, inspiration and drive that fuels a three-year snowboard project.</desc>
-    <sub-title>What drives you to snowboard?</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123134449 +0000" stop="20220123140744 +0000">
-    <title>Reel Rock S7E6</title>
-    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
-    <sub-title>Born among boulders</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123140744 +0000" stop="20220123142731 +0000">
-    <title>Reel Rock S7E7</title>
-    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
-    <sub-title>First ascent/last ascent part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123142731 +0000" stop="20220123144648 +0000">
-    <title>Reel Rock S7E8</title>
-    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
-    <sub-title>First ascent/last ascent part 2</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220123144648 +0000" stop="20220123151247 +0000">
     <title>Reel Rock S7E9</title>
     <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
@@ -43905,9 +43880,8 @@
     <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220123155725 +0000" stop="20220123174245 +0000">
-    <title>Supervention II</title>
-    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
-    <sub-title>Life on the edge</sub-title>
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220123174245 +0000" stop="20220123175137 +0000">
     <title>Red Bull Flugtag S3E4</title>
@@ -44115,9 +44089,38 @@
     <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124121934 +0000" stop="20220124140535 +0000">
-    <title>Supervention II</title>
-    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
-    <sub-title>Life on the edge</sub-title>
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124140535 +0000" stop="20220124141338 +0000">
+    <title>Red Bull Flugtag S3E1</title>
+    <desc>From superheroes to robots, enjoy our edit of the top 10 tributes to TV, movies and games from zany aviators.</desc>
+    <sub-title>Top 10 cultural tributes</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124141338 +0000" stop="20220124142309 +0000">
+    <title>Red Bull Flugtag S3E4</title>
+    <desc>Enjoy our top 10 flights from the wildest amateur aviators in their innovative human-powered flying machines.</desc>
+    <sub-title>Top 10 flights</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124142309 +0000" stop="20220124143300 +0000">
+    <title>Red Bull Flugtag S3E2</title>
+    <desc>From dance routines to crazy stunts, enjoy our edit of the top pre-flight performances from aviation teams.</desc>
+    <sub-title>Top 10 pre-flight performances</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124143300 +0000" stop="20220124144109 +0000">
+    <title>Red Bull Flugtag S3E3</title>
+    <desc>Hopes were dashed for these hapless aviators when their flying machines failed to travel more than a few feet.</desc>
+    <sub-title>Top 10 splash landings</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124144109 +0000" stop="20220124152453 +0000">
+    <title>Unbroken</title>
+    <desc>See Mark McMorris at his most vulnerable and resilient as he battles to get back on his board.</desc>
+    <sub-title>The snowboard life of Mark McMorris</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124152453 +0000" stop="20220124155040 +0000">
+    <title>Behind the Visor</title>
+    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
+    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
