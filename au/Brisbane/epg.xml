@@ -9157,13 +9157,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20220123130100 +0000" stop="20220123140100 +0000">
-    <title>New Amsterdam</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204000401" start="20220123140100 +0000" stop="20220123150000 +0000">
     <title>Manifest</title>
     <subtitles type="teletext"/>
@@ -10118,12 +10111,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000407" start="20220123133000 +0000" stop="20220123140000 +0000">
-    <title>House Hunters</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20220123140000 +0000" stop="20220123150100 +0000">
@@ -11626,12 +11613,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.10120400040A" start="20220123132100 +0000" stop="20220123142400 +0000">
-    <title>The Equalizer</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.10120400040A" start="20220123142400 +0000" stop="20220123143600 +0000">
     <title>The Garden Gurus Moments</title>
     <subtitles type="teletext"/>
@@ -12971,13 +12952,6 @@
     <title>The Equalizer</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10120400040B" start="20220123133400 +0000" stop="20220123140300 +0000">
-    <title>Malcolm in the Middle</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20220123140300 +0000" stop="20220123145300 +0000">
@@ -19856,17 +19830,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20220126080000 +0000" stop="20220126083000 +0000">
-    <title>Pawn Stars</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040543" start="20220126080000 +0000" stop="20220126090000 +0000">
     <title>Big Bash</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040543" start="20220126080000 +0000" stop="20220126083000 +0000">
+    <title>Pawn Stars</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20220126090000 +0000" stop="20220126093000 +0000">
@@ -21855,13 +21829,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040641" start="20220123130500 +0000" stop="20220123141000 +0000">
-    <title>The Sunday Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406040641" start="20220123141000 +0000" stop="20220123144000 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
@@ -23110,12 +23077,6 @@
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040643" start="20220123130700 +0000" stop="20220123140300 +0000">
-    <title>Teen Mom OG</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406040643" start="20220123140300 +0000" stop="20220123150000 +0000">
@@ -26337,13 +26298,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040646" start="20220123133000 +0000" stop="20220123143000 +0000">
-    <title>HairDo Hair Styles</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406040646" start="20220123143000 +0000" stop="20220123153000 +0000">
     <title>SKINN by Dimitri James</title>
     <subtitles type="teletext"/>
@@ -27403,12 +27357,6 @@
     <title>Retreatment Botanics Skincare</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040647" start="20220123132000 +0000" stop="20220123141700 +0000">
-    <title>CSI: Crime Scene Investigation</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406040647" start="20220123141700 +0000" stop="20220123161600 +0000">
@@ -30532,12 +30480,6 @@
   </programme>
   <programme channel="tv.101406040648" start="20220130140000 +0000" stop="20220130143000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040649" start="20220123135900 +0000" stop="20220123140000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -43941,6 +43883,26 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20220123155725 +0000" stop="20220123174245 +0000">
+    <title>Supervention II</title>
+    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
+    <sub-title>Life on the edge</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220123174245 +0000" stop="20220123175137 +0000">
+    <title>Red Bull Flugtag S3E4</title>
+    <desc>Enjoy our top 10 flights from the wildest amateur aviators in their innovative human-powered flying machines.</desc>
+    <sub-title>Top 10 flights</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220123175137 +0000" stop="20220123180207 +0000">
+    <title>Red Bull Flugtag S3E2</title>
+    <desc>From dance routines to crazy stunts, enjoy our edit of the top pre-flight performances from aviation teams.</desc>
+    <sub-title>Top 10 pre-flight performances</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220123180207 +0000" stop="20220123184551 +0000">
+    <title>Unbroken</title>
+    <desc>See Mark McMorris at his most vulnerable and resilient as he battles to get back on his board.</desc>
+    <sub-title>The snowboard life of Mark McMorris</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20220123184551 +0000" stop="20220123191138 +0000">
     <title>Behind the Visor</title>
     <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
@@ -44132,8 +44094,9 @@
     <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124121934 +0000" stop="20220124140535 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Supervention II</title>
+    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
+    <sub-title>Life on the edge</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124140535 +0000" stop="20220124141338 +0000">
     <title>Red Bull Flugtag S3E1</title>
@@ -44184,31 +44147,6 @@
     <title>Flight Plan: The Jett Lawrence Series S1E1</title>
     <desc>Jett has a surprise meeting with a fellow former motocross prodigy: Travis Pastrana.</desc>
     <sub-title>Pro motocross prodigy</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124175645 +0000" stop="20220124181516 +0000">
-    <title>Flight Plan: The Jett Lawrence Series S1E2</title>
-    <desc>Jett sits down with former Supercross star Josh Hansen to talk cars, fame and rookie mistakes as a young pro.</desc>
-    <sub-title>Ignoring distractions</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124181516 +0000" stop="20220124183332 +0000">
-    <title>Flight Plan: The Jett Lawrence Series S1E3</title>
-    <desc>Jett goes to the Grand Prix of the Americas in Texas to hang with multi-time MotoGP™ world champ Marc Márquez.</desc>
-    <sub-title>Donut bet with Márquez</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124183332 +0000" stop="20220124184915 +0000">
-    <title>Flight Plan: The Jett Lawrence Series S1E4</title>
-    <desc>Jett and Hunter prep for the AMA Supercross season as Jett’s agent kicks off big plans for the Jettson brand.</desc>
-    <sub-title>Business of Supercross</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124184915 +0000" stop="20220124191042 +0000">
-    <title>Dakar Rally S2E15</title>
-    <desc>Catch up with the off-road highlights after more than 4,000km of racing over treacherous Saudi Arabian sands.</desc>
-    <sub-title>Dakar Daily post-show</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124191042 +0000" stop="20220124195244 +0000">
-    <title>Chasing Winter</title>
-    <desc>Follow Mark McMorris and friends as they prepare for the high-stakes 2022 competition season.</desc>
-    <sub-title>Inside a world-class snowboard training camp</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
