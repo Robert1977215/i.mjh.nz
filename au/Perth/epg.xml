@@ -36425,15 +36425,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126050000 +0000">
-    <title>Where Are You Really From?</title>
+  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126053500 +0000">
+    <title>Great Canadian Railway Journeys</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126053500 +0000">
-    <title>Great Canadian Railway Journeys</title>
+  <programme channel="tv.320203000301" start="20220126043000 +0000" stop="20220126050000 +0000">
+    <title>Where Are You Really From?</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -41556,13 +41556,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
+    <title>Bamay</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Bamay</title>
+    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -43793,31 +43793,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220123224335 +0000" stop="20220123233605 +0000">
-    <title>Mercedes-Benz UCI Mountain Bike World Cup 2021</title>
-    <desc>Relive all the highs and lows from one of the most dramatic seasons of World Cup downhill racing ever seen.</desc>
-    <sub-title>Downhill season recap</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123233605 +0000" stop="20220123234408 +0000">
-    <title>Red Bull Flugtag S3E1</title>
-    <desc>From superheroes to robots, enjoy our edit of the top 10 tributes to TV, movies and games from zany aviators.</desc>
-    <sub-title>Top 10 cultural tributes</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220123234408 +0000" stop="20220124000534 +0000">
-    <title>Dakar Rally S2E15</title>
-    <desc>Catch up with the off-road highlights after more than 4,000km of racing over treacherous Saudi Arabian sands.</desc>
-    <sub-title>Dakar Daily post-show</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124000534 +0000" stop="20220124001344 +0000">
-    <title>Red Bull Flugtag S3E3</title>
-    <desc>Hopes were dashed for these hapless aviators when their flying machines failed to travel more than a few feet.</desc>
-    <sub-title>Top 10 splash landings</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124001344 +0000" stop="20220124002903 +0000">
-    <title>Esports Unfold S4E1</title>
-    <desc>From playing for headsets to becoming the first two-time TI-winner: how N0tail became a DOTA 2 legend.</desc>
-    <sub-title>Johan 'N0tail' Sundstein</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220124002903 +0000" stop="20220124011145 +0000">
     <title>Chasing Winter</title>
     <desc>Follow Mark McMorris and friends as they prepare for the high-stakes 2022 competition season.</desc>
@@ -43934,8 +43909,9 @@
     <sub-title>Sebastian Keep makes the city his BMX playground</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124121934 +0000" stop="20220124140535 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Supervention II</title>
+    <desc>Get a glimpse into what it takes to leave the normal life behind in the hunt for winter sport perfection.</desc>
+    <sub-title>Life on the edge</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20220124140535 +0000" stop="20220124141338 +0000">
     <title>Red Bull Flugtag S3E1</title>
@@ -44046,6 +44022,26 @@
     <title>Anna Gasser – The Spark Within</title>
     <desc>An intimate movie on Anna Gasser and how she changed snowboarding forever, by constantly pushing progression.</desc>
     <sub-title>An intimate portrait of a snowboard superstar</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220124235133 +0000" stop="20220125003917 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220125003917 +0000" stop="20220125004718 +0000">
+    <title>Reckless Isolation – extra</title>
+    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
+    <sub-title>Homegrown with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220125004718 +0000" stop="20220125013046 +0000">
+    <title>Red Bull Soapbox Race S7E5</title>
+    <desc>Creativity reaches new heights at the 2019 Red Bull Soapbox Race in Tokyo, Japan.</desc>
+    <sub-title>Tokyo, Japan</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220125013046 +0000" stop="20220125024340 +0000">
+    <title>The Moment</title>
+    <desc>In the backwoods of Canada, three crews of adventure seekers changed the world of cycling.</desc>
+    <sub-title>The origin of freeride mountain biking</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
