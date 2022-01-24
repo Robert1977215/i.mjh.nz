@@ -144,6 +144,9 @@ https://i.mjh.nz/au/Brisbane/radio.ih.7918|X-Forwarded-For=52.62.247.239&User-Ag
 #EXTINF:-1 tvg-id="radio.ih.7922" tvg-logo="https://i.mjh.nz/.images/radio.ih.7922.png" radio="true",Kinderling Kids Radio
 https://i.mjh.nz/au/Brisbane/radio.ih.7922|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
+#EXTINF:-1 tvg-id="radio.ih.6176" tvg-logo="https://i.mjh.nz/.images/radio.ih.6176.png" radio="true",KIIS 97.3FM
+https://i.mjh.nz/au/Brisbane/radio.ih.6176|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
 #EXTINF:-1 tvg-id="radio.ih.6315" tvg-logo="https://i.mjh.nz/.images/radio.ih.6315.png" radio="true",Inspire Digital
 https://i.mjh.nz/au/Brisbane/radio.ih.6315|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
@@ -251,9 +254,6 @@ https://i.mjh.nz/au/Brisbane/radio.ih.8848|X-Forwarded-For=52.62.247.239&User-Ag
 
 #EXTINF:-1 tvg-id="radio.ih.9042" tvg-logo="https://i.mjh.nz/.images/radio.ih.9042.png" radio="true",99.7 Bridge FM
 https://i.mjh.nz/au/Brisbane/radio.ih.9042.pls|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="radio.ih.6176" tvg-logo="https://i.mjh.nz/.images/radio.ih.6176.png" radio="true",97.3FM
-https://i.mjh.nz/au/Brisbane/radio.ih.6176|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="radio.ih.6309" tvg-logo="https://i.mjh.nz/.images/radio.ih.6309.png" radio="true",96five
 https://i.mjh.nz/au/Brisbane/radio.ih.6309|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0

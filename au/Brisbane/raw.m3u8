@@ -144,6 +144,9 @@ https://i.mjh.nz/au/Brisbane/radio.ih.7918
 #EXTINF:-1 tvg-id="radio.ih.7922" tvg-logo="https://i.mjh.nz/.images/radio.ih.7922.png" radio="true",Kinderling Kids Radio
 https://i.mjh.nz/au/Brisbane/radio.ih.7922
 
+#EXTINF:-1 tvg-id="radio.ih.6176" tvg-logo="https://i.mjh.nz/.images/radio.ih.6176.png" radio="true",KIIS 97.3FM
+https://i.mjh.nz/au/Brisbane/radio.ih.6176
+
 #EXTINF:-1 tvg-id="radio.ih.6315" tvg-logo="https://i.mjh.nz/.images/radio.ih.6315.png" radio="true",Inspire Digital
 https://i.mjh.nz/au/Brisbane/radio.ih.6315
 
@@ -251,9 +254,6 @@ https://i.mjh.nz/au/Brisbane/radio.ih.8848
 
 #EXTINF:-1 tvg-id="radio.ih.9042" tvg-logo="https://i.mjh.nz/.images/radio.ih.9042.png" radio="true",99.7 Bridge FM
 https://i.mjh.nz/au/Brisbane/radio.ih.9042.pls
-
-#EXTINF:-1 tvg-id="radio.ih.6176" tvg-logo="https://i.mjh.nz/.images/radio.ih.6176.png" radio="true",97.3FM
-https://i.mjh.nz/au/Brisbane/radio.ih.6176
 
 #EXTINF:-1 tvg-id="radio.ih.6309" tvg-logo="https://i.mjh.nz/.images/radio.ih.6309.png" radio="true",96five
 https://i.mjh.nz/au/Brisbane/radio.ih.6309
