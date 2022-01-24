@@ -19763,14 +19763,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20220126070000 +0000" stop="20220126080000 +0000">
-    <title>American Pickers</title>
+  <programme channel="tv.101305050553" start="20220126070000 +0000" stop="20220126073000 +0000">
+    <title>Storage Wars: Texas</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20220126070000 +0000" stop="20220126073000 +0000">
-    <title>Storage Wars: Texas</title>
+  <programme channel="tv.101305050553" start="20220126070000 +0000" stop="20220126080000 +0000">
+    <title>American Pickers</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41600,13 +41600,13 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Bamay</title>
+    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20220125180000 +0000" stop="20220125183000 +0000">
-    <title>Kambuwal, Guuwa &amp; Gayiri Country</title>
+    <title>Bamay</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -43823,21 +43823,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20220123234408 +0000" stop="20220124000534 +0000">
-    <title>Dakar Rally S2E15</title>
-    <desc>Catch up with the off-road highlights after more than 4,000km of racing over treacherous Saudi Arabian sands.</desc>
-    <sub-title>Dakar Daily post-show</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124000534 +0000" stop="20220124001344 +0000">
-    <title>Red Bull Flugtag S3E3</title>
-    <desc>Hopes were dashed for these hapless aviators when their flying machines failed to travel more than a few feet.</desc>
-    <sub-title>Top 10 splash landings</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20220124001344 +0000" stop="20220124002903 +0000">
-    <title>Esports Unfold S4E1</title>
-    <desc>From playing for headsets to becoming the first two-time TI-winner: how N0tail became a DOTA 2 legend.</desc>
-    <sub-title>Johan 'N0tail' Sundstein</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20220124002903 +0000" stop="20220124011145 +0000">
     <title>Chasing Winter</title>
     <desc>Follow Mark McMorris and friends as they prepare for the high-stakes 2022 competition season.</desc>
@@ -44082,6 +44067,11 @@
     <title>Red Bull Soapbox Race S7E5</title>
     <desc>Creativity reaches new heights at the 2019 Red Bull Soapbox Race in Tokyo, Japan.</desc>
     <sub-title>Tokyo, Japan</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20220125013046 +0000" stop="20220125024340 +0000">
+    <title>The Moment</title>
+    <desc>In the backwoods of Canada, three crews of adventure seekers changed the world of cycling.</desc>
+    <sub-title>The origin of freeride mountain biking</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
